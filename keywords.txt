@@ -1,0 +1,30 @@
+#######################################
+# Syntax SS_Sword
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init	   KEYWORD2
+fade       KEYWORD2
+setColor   KEYWORD2
+getButtoN  KEYWORD2
+
+moveUpdate      KEYWORD2
+getMove         KEYWORD2
+getAcclerationX KEYWORD2
+getAcclerationY KEYWORD2
+getAcclerationZ KEYWORD2
+getGyroX        KEYWORD2
+getGyroY        KEYWORD2
+getGyroZ        KEYWORD2	
+
+getStartSound   KEYWORD2
+getLiveSound    KEYWORD2
+getPunchSound   KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+FILE_READ	LITERAL1
+FILE_WRITE	LITERAL1

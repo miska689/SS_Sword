@@ -14,7 +14,7 @@ Libraria "SS_Sword" este o librărie specializată pentru controlul și programa
 
 Pentru a instala această librărie în Arduino IDE, urmați pașii de mai jos:
 
-1. Descărcați librăria de la [GitHub](https://github.com/yourusername/SS_Sword).
+1. Descărcați librăria de la [GitHub](https://github.com/miska689/SS_Sword).
 2. Deschideți Arduino IDE și selectați "Sketch" -> "Include Library" -> "Add .ZIP Library..."
 3. Alegeți fișierul ZIP descărcat cu librăria.
 
@@ -26,7 +26,7 @@ Pentru a utiliza această librărie, asigurați-vă că ați instalat-o conform 
 #include <SS_Sword.h>
 ```
 
-Pentru exemple și documentație detaliată, consultați repozițiul de pe [GitHub](https://github.com/yourusername/SS_Sword).
+Pentru exemple și documentație detaliată, consultați repozițiul de pe [GitHub](https://github.com/miska689/SS_Sword).
 
 == Drepturile de Autor și Licență
 

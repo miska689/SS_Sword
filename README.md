@@ -1,16 +1,17 @@
-= SS_Sword Library
 
-image::saber_image.png[align="right",width="100"]
+# SS_Sword Library
 
-:Author: Boinceanu Mihail
-:Version: 1.0.0
-:License: MIT
+![Saber](saber_image.png){: align="right" width="100"}
 
-== Descriere
+**Author:** Boinceanu Mihail  
+**Version:** 1.0.0  
+**License:** MIT  
 
-Libraria "SS_Sword" este o librărie specializată pentru controlul și programarea sabiei din Star Wars. Această librărie a fost creată pentru a oferi dezvoltatorilor de proiecte cu sabii Star Wars o soluție ușor de utilizat.
+## Descriere
 
-== Instalare
+Librăria "SS_Sword" este o librărie specializată pentru controlul și programarea sabiei din Star Wars. Această librărie a fost creată pentru a oferi dezvoltatorilor de proiecte cu sabii Star Wars o soluție ușor de utilizat.
+
+## Instalare
 
 Pentru a instala această librărie în Arduino IDE, urmați pașii de mai jos:
 
@@ -18,28 +19,27 @@ Pentru a instala această librărie în Arduino IDE, urmați pașii de mai jos:
 2. Deschideți Arduino IDE și selectați "Sketch" -> "Include Library" -> "Add .ZIP Library..."
 3. Alegeți fișierul ZIP descărcat cu librăria.
 
-== Utilizare
+## Utilizare
 
 Pentru a utiliza această librărie, asigurați-vă că ați instalat-o conform instrucțiunilor de mai sus. Apoi, includeți-o în codul dvs. Arduino folosind directiva `#include`:
 
-```
+```cpp
 #include <SS_Sword.h>
 ```
 
 Pentru exemple și documentație detaliată, consultați repozițiul de pe [GitHub](https://github.com/miska689/SS_Sword).
 
-== Drepturile de Autor și Licență
+## Drepturile de Autor și Licență
 
 Această librărie este creată de compania ROBOSHOP și este disponibilă sub licența MIT. Consultați fișierul "LICENSE" inclus în acest repository pentru informații suplimentare privind drepturile de autor și licența.
 
-== Contact
+## Contact
 
-Pentru orice întrebări sau feedback, vă rugăm să ne contactați la adresa de e-mail: robocode@gmail.com
+Pentru orice întrebări sau feedback, vă rugăm să ne contactați la adresa de e-mail: [robocode@gmail.com](mailto:robocode@gmail.com).
 
+## The MIT License (MIT)
 
-==The MIT License (MIT)
-
-Copyright (c) ROBOSHOP
+Copyright (c) ROBOSHOP  
 
 Permisiunea este acordată oricărei persoane care obține o copie a acestei librării și a fișierelor asociate (librăria "SS_Sword"), să o utilizeze fără restricții, inclusiv, dar fără a se limita la, dreptul de a utiliza, copia, modifica, îmbunătăți, merge și distribui această librărie în scopuri non-comerciale și educaționale.
 
@@ -47,4 +47,4 @@ Această librărie este oferită "așa cum este", fără garanții de niciun fel
 
 Drepturile de autor ale acestei librării și notificările de licență trebuie menținute și afișate în toate copiile sau porțiunile semnificative ale librăriei.
 
-Pentru informații suplimentare sau întrebări privind utilizarea acestei librării în alte scopuri decât cele non-comerciale și educaționale, vă rugăm să contactați autorul la roboshop@gmail.com.
+Pentru informații suplimentare sau întrebări privind utilizarea acestei librării în alte scopuri decât cele non-comerciale și educaționale, vă rugăm să contactați autorul la [roboshop@gmail.com](mailto:roboshop@gmail.com).
